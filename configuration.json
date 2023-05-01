@@ -1,0 +1,12 @@
+{
+
+    "hotel": {
+        "hotelName": "Habbo",
+        "hotelUrl": "https://discord.gg/YDmbap49bJ",
+        "fpath": "https://habbo.city/habbo-imaging/avatarimage",
+        "profilehome": "/profile/",
+        "usershall": 5,
+        "cms": "Habbo",
+        "newscmslink": "/article/"
+    }
+}
