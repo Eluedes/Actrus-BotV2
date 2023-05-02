@@ -1,5 +1,5 @@
 var mysql = require('mysql');
-const config = require('configuration.json')
+const config = require('../../configuration.json')
 var connection = mysql.createConnection({
     host: process.env.DB_HOST,
     user: process.env.DB_USER,
